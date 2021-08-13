@@ -1,0 +1,202 @@
+Mansi@1989
+
+Progress Report : 01.04.2021
+Core PHP: 
+1) Sign up
+- First name, Last Name - Email - Password, Confirm password , Male,Female  - Done
+- - Profile picture upload , Country, State, City, Term & condition checkbox - In Progress
+
+
+Progress Report : 01.04.2021
+Core PHP:
+1) Sign up
+- Profile Picture, Country, State - Done
+- City, Term & condition checkbox - In Progress
+
+
+Progress Report : 03.04.2021
+Core PHP:
+1) Sign up
+- City, Term & condition checkbox - Done
+- Login Form - In Progress
+
+
+Progress Report : 05.04.2021
+Core PHP:
+1) Sign up
+- Use Jquery Validate.js and also backend php validation - Done
+- Minor Bug Fixes - Done
+- Login Form - In Progress
+- Users listing - Done
+- pagination,Sorting,Searching using ajax - Progress
+
+Progress Report : 06.04.2021
+Core PHP:
+1) Sign up
+- Login Form - Done
+- Style with Bootstrap on Signup, Login Form - Done
+- pagination,Sorting,Searching using ajax - Progress
+
+Progress Report : 07.04.2021
+Core PHP:
+1) Sign up
+- Searching, Sorting, Pagination - Using DataTable - Done
+- Searching using ajax - (Coding Wise) -  Done
+- pagination,Sorting using ajax - (Coding Wise) -  In Progress
+
+Progress Report : 08.04.2021
+Core PHP:
+1) Sign up
+- Update, Delete Records - Done
+- Image Updation on User Page - Done
+- pagination,Sorting using ajax - In Progress
+
+Progress Report : 09.04.2021
+Core PHP:
+1) Sign up
+- Update, Delete Records - Bug Fixes - Done
+- Image Updation on User Page - Bug Fixes - Done
+- pagination,Sorting using ajax - Done
+- Session - Done
+- Session - Bug - Done
+
+
+Progress Report : 10.04.2021
+Core PHP:
+1) Sign up
+- JQuery Validation on Sign up page for duplicate username- Done
+- User Registration Flashing - Done 
+- pagination,Sorting using ajax - In Progress
+
+Progress Report : 12.04.2021
+Core PHP:
+1) Sign up
+- pagination,Sorting using ajax - Done
+- pagination,Sorting using non-ajax - Done
+
+
+Progress Report : 13.04.2021
+Core PHP:
+1) Sign up
+- pagination,Sorting using ajax - Done
+
+Progress Report : 14.04.2021
+Core PHP:
+1) Sign up
+- sign up form using Validation.js - Done
+- Full form Demo - in progress
+
+Progress Report : 15.04.2021
+
+1) Core PHP ---Done
+2) Code Igniter - 
+	1) Installation - Done
+	2) signup form and submit page form using ajax - In Progress
+	3) MVC structure, Routing
+    	- managing database, 
+     	- Helpers, Library, Form validation - In Progress
+
+Progress Report:16.04.2020
+2. Codeigniter with Jquery 
+
+1) Signup Form - Done
+2) Use form_validation library for backend validation in signup form - In Progress
+3) Use File Upload library for profile picture uploading in signup form - In Progress
+
+
+Progress Report:19.04.2020
+2. Codeigniter with Jquery 
+
+1) Signup Form - Done
+2) Use form_validation library for backend validation in signup form - In Progress
+3) Use File Upload library for profile picture uploading in signup form - Done
+4) Login  - In Progress
+5) Users listing using datatable.js with ajax and 
+searching,sorting,pagination, drag & drop RAW sortable funtionality should 
+be work - In Progress
+
+Progress Report:20.04.2020
+2. Codeigniter with Jquery 
+
+1) Signup Form - Done
+2) Use form_validation library for backend validation in signup form - Done
+3) Use File Upload library for profile picture uploading in signup form - Done
+4) Login  - Done
+5) Dynamic Country loading - Done
+6) Dynamic state, city  Loading using Ajax - In progress
+7) Users listing using datatable.js with ajax and searching,sorting,pagination, drag & drop RAW sortable funtionality should be work - In Progress
+8) Application Crud and datatable - In Progress
+
+Progress Report:21.04.2020
+2. Codeigniter with Jquery 
+
+1) Signup Form - Done
+2) Use form_validation library for backend validation in signup form - Done
+3) Use File Upload library for profile picture uploading in signup form - Done
+4) Login  - Done
+5) Remember Me Functionality - Done
+5) Remember Me Functionality with Timing - In-Progress
+6) Dynamic Country, State, City loading using Ajax - Done
+7) Users listing using datatable.js with ajax and searching,sorting,pagination, drag & drop RAW sortable funtionality should be work - In Progress
+
+Progress Report:22.04.2020
+2. Codeigniter with Jquery 
+
+1) Remember Me Functionality with Timing - Done
+2) Users listing using datatable.js with ajax  - Done
+3) searching,sorting,pagination, drag & drop RAW sortable funtionality should be work - In Progress
+
+
+Progress Report:23.04.2020
+2. Codeigniter with Jquery 
+
+1) Remember Me Functionality with Timing - Done
+2) Users listing using datatable.js with ajax  - Done
+3) searching,sorting,pagination, drag & drop RAW sortable funtionality should be work - Done
+4) Twilio integration - In Progress
+
+Progress Report:26.04.2020
+2. Codeigniter with Jquery 
+
+1) Edit User Personal Details - Done
+2) User updated Country in Edit Page, - Done
+3) User updated State,City in Edit Page- In Progress
+2) Twilio integration - In Progress
+
+Progress Report:27.04.2020
+2. Codeigniter with Jquery 
+
+1) Edit User Personal Details - Done
+2) User updated Country in Edit Page, - Done
+3) User updated State,City in Edit Page- Done
+2) Twilio integration - Done
+
+
+Progress Report:28.04.2020
+
+----------------------- Codeigniter with Jquery ------------------------------
+1) CRUD using Ajax - Done
+2) form_validation library for backend validation in signup form - DONE
+3) Use File Upload library for profile picture uploading in signup form - DONE
+4) Login - DONE
+5) Users listing using datatable.js with ajax and searching,sorting,pagination, drag & drop COL funtionality - DONE
+6) Twilio Integration - DONE
+
+7) Minor Bugs - In Process
+	1. Registration Confirmation Message
+	2. Form refill in case of single field error
+
+Progress Report:29.04.2020
+
+----------------------- Codeigniter with Jquery ------------------------------
+
+7) Minor Bugs - Done
+	1. Registration Confirmation Message
+	2. Form refill in case of single field error
+
+1) Learn Laravel Framework (Ref. link - https://laravel.com/docs/8.x)
+- installation - Done
+- Composer - Done
+- Basic intro - in Process
+- MVC Structure, Routing - In Process
+	
